@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
 
-    // SETUP
+    // SETUP: NORMAL CIN
     string var0; 
     cout << "Enter one word, no spaces : ";
     cin >> var0; 
