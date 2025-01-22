@@ -1,0 +1,14 @@
+// Assignment: Project 2 - Coffee Break C++
+// Author: Lea Choe
+// Due Date: 01/26/2025 9:00 PM
+
+
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+// Declare 
+    
+    return 0;
+}
